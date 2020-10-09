@@ -49,3 +49,15 @@ CountCommits --count 5
 ExecuteCommand --command "cd factorialmaker; poetry install; poetry run python factorialmaker --iterative --number 5; cd .."
 
 # Output of the Python Program:
+#
+# Calculating 5! and returning all numbers in the computation of 5! 🛫
+
+  # Should I use an iterative function? Yes
+
+  # Here is the output from the iterative function.
+
+   # Factorial values for 5! = [(1, 1), (2, 2), (3, 6), (4, 24), (5, 120)]
+   # Unpacking at end of list to determine 5! = 120
+   # The returned ordered pair shows that 5! = 120
+
+# Wow, computing factorial numbers is demanding! 😂
